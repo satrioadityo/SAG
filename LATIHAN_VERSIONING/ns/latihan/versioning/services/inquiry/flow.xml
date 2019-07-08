@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <FLOW VERSION="3.0" CLEANUP="true">
+  <COMMENT>1</COMMENT>
 
   <!-- nodes -->
 
@@ -10,5 +11,9 @@
 
 <MAP TIMEOUT="" MODE="STANDALONE">
   <COMMENT>2</COMMENT>
+</MAP>
+
+<MAP TIMEOUT="" MODE="STANDALONE">
+  <COMMENT>3</COMMENT>
 </MAP>
 </FLOW>
